@@ -1,4 +1,4 @@
-# FR ControllerMap
+# FR Controllermap
 
 Xbox controller support for Free Realms on PC. A DLL that hooks the game's input system to translate XInput controller input into keyboard and mouse actions — giving you native-feeling gamepad control.
 
